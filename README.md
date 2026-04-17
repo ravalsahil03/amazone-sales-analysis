@@ -5,7 +5,7 @@ This project focuses on analyzing Amazon sales data to understand business perfo
 
 <a href = "https://github.com/ravalsahil03/amazon-sales-analysis/blob/main/Data/amazon_sales.xlsx"> Excel Data </a>
 
-<a href = "https://github.com/ravalsahil03/amazon-sales-analysis/blob/main/Data/amazon_sales.csv"> CSV File </a>
+<a href = "https://github.com/ravalsahil03/amazone-sales-analysis/blob/main/Data/amazon_sales.csv"> CSV File </a>
 
 ## Tools & Technologies 
 - Microsoft Excel – Data cleaning and analysis  
