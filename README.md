@@ -11,7 +11,6 @@ This project focuses on analyzing Amazon sales data to understand business perfo
 - Microsoft Excel – Data cleaning and analysis  
 - SQL – Data querying and aggregation  
 - Power BI – Dashboard creation and visualization  
-- Git & GitHub – Version control and project management
   
 ## Data Cleaning & Preparation
 The dataset was cleaned and prepared using Power Query in the Excel:
