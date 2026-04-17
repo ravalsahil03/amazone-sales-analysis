@@ -3,7 +3,7 @@ This project focuses on analyzing Amazon sales data to understand business perfo
 
 ## Dataset
 
-<a href = "https://github.com/ravalsahil03/amazon-sales-analysis/blob/main/Data/amazon_sales.xlsx"> Excel Data </a>
+<a href = "https://github.com/ravalsahil03/amazone-sales-analysis/blob/main/Data/amazon_sales.xlsx"> Excel Data </a>
 
 <a href = "https://github.com/ravalsahil03/amazone-sales-analysis/blob/main/Data/amazon_sales.csv"> CSV File </a>
 
